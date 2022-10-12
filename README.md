@@ -1,4 +1,4 @@
-<h1> ispend </h1>
+<h1> i$pend </h1>
 <p> ispend is a React app that allows the user to keep track of the users spending. You can create and delete expenses. </p>
 Technologies:
 <ul>
